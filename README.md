@@ -1,0 +1,2 @@
+# PointGenerator
+MPS法などに用いる点データをGUIから生成するためのスクリプトです
